@@ -153,7 +153,7 @@ export async function fetchPlaylistViaEmbed(
   try {
     r = await fetch(url, {
       headers: {
-        "User-Agent": "Mozilla/5.0 (compatible; Klick/1.0)",
+        "User-Agent": "Mozilla/5.0 (compatible; Ariuntify/1.0)",
         Accept: "text/html",
       },
     });

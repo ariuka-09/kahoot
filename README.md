@@ -1,4 +1,4 @@
-# Klick — first-click-wins room
+# Ariuntify — first-click-wins room
 
 A Kahoot-style web app where a host creates a room, participants join via QR
 or 6-character code, and the host runs a 3-second countdown. The first

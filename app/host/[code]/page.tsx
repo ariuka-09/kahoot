@@ -80,7 +80,7 @@ export default function HostPage({
           <p className="text-sm uppercase tracking-widest text-slate-400">
             Host
           </p>
-          <h1 className="text-4xl font-bold">Klick room</h1>
+          <h1 className="text-4xl font-bold">Ariuntify room</h1>
         </div>
         <div className="text-right">
           <p className="text-xs text-slate-400">

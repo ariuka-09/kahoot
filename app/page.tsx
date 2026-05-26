@@ -27,7 +27,7 @@ export default function Home() {
     <main className="flex flex-1 items-center justify-center p-6">
       <div className="w-full max-w-md flex flex-col gap-8">
         <header className="text-center">
-          <h1 className="text-5xl font-bold tracking-tight">Klick</h1>
+          <h1 className="text-5xl font-bold tracking-tight">Ariuntify</h1>
           <p className="mt-3 text-slate-300">
             Host a room. First click after the countdown wins.
           </p>

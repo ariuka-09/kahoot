@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Klick — first click wins",
+  title: "Ariuntify — first click wins",
   description: "A Kahoot-style room: host runs a countdown, fastest click answers.",
 };
 
